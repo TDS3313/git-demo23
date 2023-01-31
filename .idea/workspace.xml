@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd76a276-c4b9-4f66-8aae-a1ac50d497ef" name="Default Changelist" comment="MainTest的主方法丰富">
+    <list default="true" id="bd76a276-c4b9-4f66-8aae-a1ac50d497ef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dedmo-module-1/src/com/duyi/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/dedmo-module-1/src/com/duyi/MainTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dedmo-module-1/src/com/duyi/MainTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            <state relative-caret-position="220">
+              <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -29,15 +30,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="40">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dedmo-module-1/src/com/duyi/RockyBranch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -177,11 +169,18 @@
       <option name="project" value="LOCAL" />
       <updated>1675168488513</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="sunny branch update Maintest">
+      <created>1675174394438</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675174394438</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3750000" />
+    <option name="totallyTimeSpent" value="4063000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="420" y="132" width="1824" height="876" extended-state="0" />
@@ -273,7 +272,8 @@
     <MESSAGE value="尝试第一次更改" />
     <MESSAGE value="MainTest的主方法丰富" />
     <MESSAGE value="RockyTest 分支修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="RockyTest 分支修改" />
+    <MESSAGE value="sunny branch update Maintest" />
+    <option name="LAST_COMMIT_MESSAGE" value="sunny branch update Maintest" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/dedmo-module-1/src/com/duyi/RockyBranch.java">
@@ -285,8 +285,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dedmo-module-1/src/com/duyi/MainTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        <state relative-caret-position="220">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
         </state>
       </provider>
     </entry>
